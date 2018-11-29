@@ -11,6 +11,7 @@ void setup() {
   //Определяем вводы и выводы
   pinMode(PIN_TRIG, OUTPUT);
   pinMode(PIN_ECHO, INPUT);
+  
 }
  
 void loop() {
